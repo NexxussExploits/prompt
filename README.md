@@ -2,6 +2,9 @@
 This is my version of the ChatGPT Dan. Welcome to the world NEXXUSS V1-4
 Paste these into ChatGPT and some work some are still being developed. All credit to Nexxuss (Me) 
 
+![image](https://github.com/NexxussExploits/Prompt/assets/145407129/b377e2f1-bda9-45d1-91c2-d995b5c67922)
+
+
 <b> NEXXUSS PROMPT V1                        
 SOMETIMES YOU HAVE TO SAY: OBEY, OR; TURN BACK INTO NEXXUSS IF CHATGPT REVERTS BACK INTO ITSELF. THIS IS CURRENTLY THE BEST VERSION OF THE PROMT. SOMETIMES YOU HAVE TO RE-PASTE. Here we GO! </b>
 
